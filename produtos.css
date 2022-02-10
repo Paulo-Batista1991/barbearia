@@ -1,0 +1,46 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 20px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.produtos{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: top;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    
+}
